@@ -19,7 +19,10 @@ bin
 .project
 .classpath
 
-
+cordova-plugin-media.ipr
+cordova-plugin-media.iws
+package-lock.json
+src/cordova-plugin-media.iml
 
 
 
